@@ -64,7 +64,7 @@ frontend/src/
 
 1. **Clone the Repository:**
 ```sh
-git https://github.com/Sajid788/Kazam-Assignment.git
+git https://github.com/riteshmaurya089/Task-Management
 cd backend
 cd frontend
 ```
