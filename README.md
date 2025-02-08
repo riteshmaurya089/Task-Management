@@ -1,4 +1,4 @@
-# Task Management Application (MERN)
+# Task Management
 
 ## Overview
 This is a full-stack task management application built using the MERN stack (MongoDB, Express.js, React, Node.js) with TypeScript. Users can register, log in, create, update, delete, and mark tasks as completed. The application features JWT-based authentication, protected routes, and a responsive UI using Tailwind CSS.
